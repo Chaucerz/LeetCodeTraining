@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad7fa8c7-8708-4464-8640-c3ea7b129f7f" name="Default Changelist" comment="2019.8.2第一次提交">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/KClosestPointstoOrigin/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/LevelOrder/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/LevelOrder/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/SquaresofaSortedArray/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/addTwoNumbers/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/addTwoNumbers/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arrayPairSum/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/averageofLevelsinBinaryTree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/averageofLevelsinBinaryTree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/binaryGap/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/diStringMatch/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/flipAndInvertImage/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/increasingBST/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/increasingBST/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/invertBinaryTree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/invertBinaryTree/Solution_iteration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/invertBinaryTree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/invertTree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/invertTree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/iqueMorseRepresentations/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/isToeplitzMatrix/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/judgeCircle/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/largestPerimeterTriangle/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/leafSimilar/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/leafSimilar/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/matrixReshape/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/maxDepth/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/maxDepth/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/maxDepthOfNaryTree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/maxDepthOfNaryTree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/maxSubArray/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mergeTrees/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mergeTrees/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/middleNode/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/middleNode/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/nAryTreeLevelOrderTraversal/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/nAryTreeLevelOrderTraversal/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/numSpecialEquivGroups/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/numUniqueEmails/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/permute/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/postorder/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/postorder/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/postorder/Solution_recursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/preorder/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/preorder/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/preorder/Solution_iterative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/projectionArea/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/recursion/PrintReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/reorderLogFiles/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/reorderLogFiles/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/reverseInt/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/reverseString/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/reverseString/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/reverseWords/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/searchBST/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/searchBST/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/selfDividingNumbers/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/smallestRangeI/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sortArrayByParity/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sortArrayByParity/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sortArrayByParityII/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/titleToNumber/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/toLowerCase/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/transposeMatrix/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/trimBST/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/trimBST/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/univaluedBinaryTree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/univaluedBinaryTree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KClosestPointstoOrigin/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOrder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOrder/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquaresofaSortedArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/addTwoNumbers/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/addTwoNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayPairSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/averageofLevelsinBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/averageofLevelsinBinaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binaryGap/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diStringMatch/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flipAndInvertImage/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/increasingBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/increasingBST/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertBinaryTree/Solution_iteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertBinaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iqueMorseRepresentations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isToeplitzMatrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/judgeCircle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/largestPerimeterTriangle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leafSimilar/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leafSimilar/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrixReshape/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxDepth/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxDepth/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxDepthOfNaryTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxDepthOfNaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxSubArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeTrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeTrees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleNode/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleNode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nAryTreeLevelOrderTraversal/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nAryTreeLevelOrderTraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numSpecialEquivGroups/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numUniqueEmails/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/permute/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postorder/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postorder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postorder/Solution_recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preorder/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preorder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preorder/Solution_iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectionArea/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/PrintReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reorderLogFiles/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseInt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseString/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseString/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseWords/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchBST/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfDividingNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallestRangeI/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortArrayByParity/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortArrayByParity/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortArrayByParityII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/titleToNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toLowerCase/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/transposeMatrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trimBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trimBST/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/univaluedBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/univaluedBinaryTree/TreeNode.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mergeTrees/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/matrixReshape/Solution.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/addTwoNumbers/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/invertTree/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/iqueMorseRepresentations/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="73" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/binaryGap/Solution.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/recursion/PrintReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/递归/PrintReverse.java" />
+        <option value="$PROJECT_DIR$/src/可供调试的生成链表的LeetCode函数/Solution.java" />
+        <option value="$PROJECT_DIR$/src/recursion/PrintReverse.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="G:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="4" />
+    <option name="y" value="131" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="addTwoNumbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workspace\LeetCode\bin\averageofLevelsinBinaryTree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PrintReverse">
+    <configuration name="PrintReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.PrintReverse" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="可供调试的生成链表的LeetCode函数.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="可供调试的生成链表的LeetCode函数.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrintReverse" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7fa8c7-8708-4464-8640-c3ea7b129f7f" name="Default Changelist" comment="" />
+      <created>1561467133353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561467133353</updated>
+      <workItem from="1561467153619" duration="3946000" />
+      <workItem from="1564568016843" duration="1101000" />
+      <workItem from="1564757845043" duration="1148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6195000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3253796" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019.8.2第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.8.2第一次提交" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bin/可供调试的生成链表的LeetCode函数/Solution.class" />
+    <entry file="file://$PROJECT_DIR$/bin/常用类型转换/Solution.class" />
+    <entry file="file://$PROJECT_DIR$/src/可供调试的生成链表的LeetCode函数/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/mergeTrees/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/binaryGap/Solution.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/PrintReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/matrixReshape/Solution.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/addTwoNumbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/invertTree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iqueMorseRepresentations/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="73" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
