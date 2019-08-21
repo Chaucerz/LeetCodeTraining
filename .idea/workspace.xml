@@ -1,152 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad7fa8c7-8708-4464-8640-c3ea7b129f7f" name="Default Changelist" comment="2019.8.2第一次提交">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/KClosestPointstoOrigin/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/LevelOrder/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/LevelOrder/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/SquaresofaSortedArray/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/addTwoNumbers/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/addTwoNumbers/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/arrayPairSum/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/averageofLevelsinBinaryTree/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/averageofLevelsinBinaryTree/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/binaryGap/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/diStringMatch/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/flipAndInvertImage/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/increasingBST/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/increasingBST/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/invertBinaryTree/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/invertBinaryTree/Solution_iteration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/invertBinaryTree/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/invertTree/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/invertTree/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/iqueMorseRepresentations/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/isToeplitzMatrix/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/judgeCircle/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/largestPerimeterTriangle/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/leafSimilar/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/leafSimilar/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/matrixReshape/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/maxDepth/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/maxDepth/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/maxDepthOfNaryTree/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/maxDepthOfNaryTree/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/maxSubArray/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/mergeTrees/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/mergeTrees/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/middleNode/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/middleNode/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/nAryTreeLevelOrderTraversal/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/nAryTreeLevelOrderTraversal/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/numSpecialEquivGroups/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/numUniqueEmails/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/permute/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/postorder/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/postorder/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/postorder/Solution_recursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/preorder/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/preorder/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/preorder/Solution_iterative.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/projectionArea/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/recursion/PrintReverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/reorderLogFiles/Solution$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/reorderLogFiles/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/reverseInt/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/reverseString/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/reverseString/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/reverseWords/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/searchBST/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/searchBST/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/selfDividingNumbers/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/smallestRangeI/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/sortArrayByParity/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/sortArrayByParity/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/sortArrayByParityII/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/titleToNumber/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/toLowerCase/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/transposeMatrix/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/trimBST/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/trimBST/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/univaluedBinaryTree/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/univaluedBinaryTree/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KClosestPointstoOrigin/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOrder/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOrder/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquaresofaSortedArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addTwoNumbers/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addTwoNumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayPairSum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/averageofLevelsinBinaryTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/averageofLevelsinBinaryTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binaryGap/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diStringMatch/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flipAndInvertImage/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/increasingBST/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/increasingBST/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invertBinaryTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invertBinaryTree/Solution_iteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invertBinaryTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invertTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invertTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iqueMorseRepresentations/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isToeplitzMatrix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/judgeCircle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/largestPerimeterTriangle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leafSimilar/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leafSimilar/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrixReshape/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxDepth/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxDepth/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxDepthOfNaryTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxDepthOfNaryTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxSubArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mergeTrees/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mergeTrees/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleNode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleNode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nAryTreeLevelOrderTraversal/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nAryTreeLevelOrderTraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numSpecialEquivGroups/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numUniqueEmails/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/permute/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/postorder/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/postorder/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/postorder/Solution_recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preorder/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preorder/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preorder/Solution_iterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectionArea/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/PrintReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reorderLogFiles/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseInt/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseString/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseString/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseWords/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searchBST/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searchBST/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfDividingNumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallestRangeI/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortArrayByParity/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortArrayByParity/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortArrayByParityII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/titleToNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/toLowerCase/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transposeMatrix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trimBST/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trimBST/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/univaluedBinaryTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/univaluedBinaryTree/TreeNode.java" afterDir="false" />
-    </list>
+    <list default="true" id="ad7fa8c7-8708-4464-8640-c3ea7b129f7f" name="Default Changelist" comment="2019.8.2第一次提交" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -161,56 +16,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mergeTrees/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/KClosestPointstoOrigin/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/matrixReshape/Solution.class">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/addTwoNumbers/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/invertTree/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="624">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding>
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/iqueMorseRepresentations/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/isToeplitzMatrix/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="73" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/binaryGap/Solution.class">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursion/PrintReverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="432">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -251,13 +73,15 @@
     <option name="width" value="1932" />
     <option name="height" value="1045" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,17 +94,11 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="addTwoNumbers" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,13 +178,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6195000" />
+    <option name="totallyTimeSpent" value="6337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,11 +198,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.26030368" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3253796" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3253796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
