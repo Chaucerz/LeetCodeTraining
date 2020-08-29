@@ -1,8 +1,5 @@
 package leetcode_23_mergeKLists;
 
-
-
-
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
@@ -16,7 +13,8 @@ public class Solution {
             return null;
         }
 
-        PriorityQueue<ListNode> priorityQueue = new PriorityQueue<>(lists.length, Comparator.comparingInt(value -> value.val));
+        PriorityQueue<ListNode> priorityQueue = new PriorityQueue<>(lists.length,
+                Comparator.comparingInt(value -> value.val));
         ListNode dummyNode = new ListNode(-1);
         ListNode curr = dummyNode;
 
